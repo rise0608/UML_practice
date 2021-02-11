@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-11T03:43:44.902Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="Akgr90BQgkJZOcPwIrHl" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-11T03:44:11.515Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="exzn5GKkrx4Tg0NbJjyk" version="14.3.0" type="github">
   <diagram id="a0KXuTRIiURi5jRqJ8EH" name="第 1 页">
     <mxGraphModel dx="920" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="qr1bZSE-UdYrf6k7tUEg-6" value="- Singleton()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qr1bZSE-UdYrf6k7tUEg-4">
           <mxGeometry y="52" width="280" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="qr1bZSE-UdYrf6k7tUEg-7" value="+ static Singleton getSingleton()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qr1bZSE-UdYrf6k7tUEg-4">
+        <mxCell id="qr1bZSE-UdYrf6k7tUEg-7" value="+ static getSingleton(): Singleton " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qr1bZSE-UdYrf6k7tUEg-4">
           <mxGeometry y="78" width="280" height="26" as="geometry" />
         </mxCell>
         <mxCell id="qr1bZSE-UdYrf6k7tUEg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="qr1bZSE-UdYrf6k7tUEg-8" target="qr1bZSE-UdYrf6k7tUEg-4">
